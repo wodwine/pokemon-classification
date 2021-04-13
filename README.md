@@ -3,6 +3,9 @@
 ## Kaggle Dataset
 https://www.kaggle.com/thedagger/pokemon-generation-one
 
+## Kaggle Notebook
+https://www.kaggle.com/worldwineweb/pokemon-classification-with-10-pokemons
+
 ## Model
 This model can be able to classify the pokemon
 
