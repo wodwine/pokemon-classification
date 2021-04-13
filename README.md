@@ -1,5 +1,8 @@
 # pokemon-identifier
 
+## Kaggle Dataset
+https://www.kaggle.com/thedagger/pokemon-generation-one
+
 ## Model
 This model can be able to classify the pokemon
 
@@ -15,3 +18,7 @@ In all there are over 10,000+ images
 
 ## Acknowledgements
 This wouldn't have been possible without the awesome linux guru @Prajjwal who helped me in scraping the data and cleaning it up.
+
+## Inspiration
+Gotta train 'em all!
+Creating a real life Pokédex was the inspiration behind collecting this dataset.
