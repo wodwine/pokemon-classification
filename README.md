@@ -1,5 +1,8 @@
 # pokemon-identifier
 
+## Model
+This model can be able to classify the pokemon
+
 ## Context
 The dataset was built out of necessity as there was not much sanitised data available online for images of Pokemon based on their
 Generation and names.
